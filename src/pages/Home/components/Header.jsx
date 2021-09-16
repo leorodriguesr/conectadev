@@ -9,8 +9,8 @@ function Header() {
                 </div>
                 <div>
                     <button>Novo Post</button>
-                    <span>Opa</span>
-                    <span>Leo</span>
+                    <span>img1</span>
+                    <span>img2</span>
                     </div>
                 </div>
         </header>
